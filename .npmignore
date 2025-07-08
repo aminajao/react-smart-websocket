@@ -1,0 +1,9 @@
+src
+node_modules
+coverage
+examples
+*.config.js
+tsconfig*.json
+.prettierrc
+.eslintrc*
+jest.config.js
