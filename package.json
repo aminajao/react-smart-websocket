@@ -38,6 +38,14 @@
   ],
   "author": "Amin Ajao",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aminajao/react-smart-websocket.git"
+  },
+  "homepage": "https://github.com/aminajao/react-smart-websocket#readme",
+  "bugs": {
+    "url": "https://github.com/aminajao/react-smart-websocket/issues"
+  },
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
