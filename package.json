@@ -1,6 +1,6 @@
 {
   "name": "react-smart-websocket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Smart WebSocket hook for React with visibility-aware reconnection and multi-connection management",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
